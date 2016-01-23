@@ -1,0 +1,16 @@
+bus1.pgm
+bus2.pgm
+bus3.pgm
+bus4.pgm
+fresa2.pgm
+fresita.pgm
+fruta.pgm
+girl.pgm
+green.pgm
+icon2.pgm
+lenna3.pgm
+lennaDD.pgm
+lenna.pgm
+lina.pgm
+rojo.pgm
+yellow.pgm
